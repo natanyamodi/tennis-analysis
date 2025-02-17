@@ -1,6 +1,6 @@
 # Tennis Analysis
 
-The **Tennis Analysis Project** is a comprehensive tool designed to analyze tennis match videos. This project leverages advanced computer vision techniques to detect and track players, monitor ball movements, and identify key events such as ball hits. The project utilizes the **YOLO (You Only Look Once)** object detection model for player and ball detection, and a custom-trained model for court line detection.
+The **Tennis Analysis Project** is a comprehensive tool designed to analyze tennis match videos. This project leverages advanced computer vision techniques to detect and track players, monitor ball movements, and identify key events such as ball hits. The project utilizes the **YOLO** object detection model for player and ball detection, and a custom-trained model for court line detection.
 
 ## Key Features
 
